@@ -1,0 +1,20 @@
+What was easy about this assignment?
+
+In this assignment, it was particularly easy to understand the methodologies behind each of the retrieval metrics designed for when creating the translation memory retrieval algorithm. Both are simple metrics to use with very different results.
+
+What was challenging about this assignment?
+
+A challenging part of this assignment was understanding and visualizing the dynamic programming algorithm for computing edit distance and backtracing. Without the steps of finding the subproblems, base/recursive cases, and memoization of the algorithm, it is difficult to understand fully. It is one thing to visualize dynamic programming in a table, but it is a completely separate problem to code it.
+Another challenge within this assignment that was particularly time-consuming was navigating the EMEA website to properly find the correct corpus file to download.
+
+What did you like about this assignment?
+
+It was interesting to learn about the different types of retrieval metrics and the particularly different results that can be achieved for different MTBTs, using the EMEA corpus as a good example. 
+
+What did you dislike about this assignment?
+
+There was a struggle to find a particular use case for the "translation" part of the program. Obviously, the candidate sentences retrieved for each MTBT are to help in proper translation, but the practicality of machine translation seems to stop past retrieving these sentences. Both metrics seemed to yield relatively low scores. How often are these metrics really used within translation memory retrieval? How often is translation memory retrieval used in machine translation, and how does it compare to other machine translation methods such as using neural networks like RNNs and LSTMs?
+
+What did you learn from this assignment? 
+
+Our group learned a better understanding of the edit distance algorithm and the dynamic programming algorithm that came with it, as well as an improved thought process towards the translation memory retrieval (TMR) algorithm and the different components that are used to achieve it. Overall, this assignment cemented the group's foundations in understanding TMR for machine translation and the different results that can be returned utilizing different retrieval metrics.

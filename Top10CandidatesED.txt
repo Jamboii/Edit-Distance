@@ -1,0 +1,260 @@
+Sentence to be translated: 'a 020796 b 290896 c 300896 d OJ No C284 of 270996' 
+-----------------------------------------
+1: a b c d
+T: a b c d
+Alignment: (a->a 0, 020796->* 1, b->b 0, 290896->* 1, c->c 0, 300896->* 1, d->d 0, OJ->* 1, No->* 1, C284->* 1, of->* 1, 270996->* 1)
+ED SCORE: 0.33333333333333337
+
+2: a 2081996 b 871996 c 170 days d 518 days
+T: a 200896 b 080796 c 170 Jours d 518 Jours
+Alignment: (a->a 0, 020796->2081996 1, b->b 0, 290896->871996 1, c->c 0, 300896->* 1, d->* 1, OJ->170 1, No->days 1, C284->d 1, of->518 1, 270996->days 1)
+ED SCORE: 0.25
+
+3: b 201196 c 70 d ays d
+T: b 201196 c 70 jours d
+Alignment: (a->* 1, 020796->* 1, b->b 0, 290896->201196 1, c->c 0, 300896->70 1, d->d 0, OJ->* 1, No->* 1, C284->* 1, of->ays 1, 270996->d 1)
+ED SCORE: 0.25
+
+4: a b
+T: a
+Alignment: (a->a 0, 020796->* 1, b->b 0, 290896->* 1, c->* 1, 300896->* 1, d->* 1, OJ->* 1, No->* 1, C284->* 1, of->* 1, 270996->* 1)
+ED SCORE: 0.16666666666666663
+
+5: c d
+T: c d
+Alignment: (a->* 1, 020796->* 1, b->* 1, 290896->* 1, c->c 0, 300896->* 1, d->d 0, OJ->* 1, No->* 1, C284->* 1, of->* 1, 270996->* 1)
+ED SCORE: 0.16666666666666663
+
+6: c 208 d ays d 180 days
+T: c 208 Jours d 180 Jours
+Alignment: (a->* 1, 020796->* 1, b->* 1, 290896->* 1, c->c 0, 300896->208 1, d->d 0, OJ->* 1, No->ays 1, C284->d 1, of->180 1, 270996->days 1)
+ED SCORE: 0.16666666666666663
+
+7: L 272 of 251096 11 OJ No
+T: L 272 du 251096 11 JO N°
+Alignment: (a->* 1, 020796->* 1, b->L 1, 290896->272 1, c->of 1, 300896->251096 1, d->11 1, OJ->OJ 0, No->No 0, C284->* 1, of->* 1, 270996->* 1)
+ED SCORE: 0.16666666666666663
+
+8: 65 Nature and contents of container
+T: 65 Nature et contenu de lemballage extérieur
+Alignment: (a->* 1, 020796->* 1, b->* 1, 290896->* 1, c->* 1, 300896->* 1, d->65 1, OJ->Nature 1, No->and 1, C284->contents 1, of->of 0, 270996->container 1)
+ED SCORE: 0.08333333333333337
+
+9: Slovenija Lek farmacevtska druž ba d d
+T: Lek farmacevtska druž ba d d
+Alignment: (a->* 1, 020796->Slovenija 1, b->Lek 1, 290896->farmacevtska 1, c->druž 1, 300896->ba 1, d->d 0, OJ->* 1, No->* 1, C284->* 1, of->* 1, 270996->d 1)
+ED SCORE: 0.08333333333333337
+
+10: au accumulation was observed with either route of administration
+T: Dans les études cliniques une accumulation minimale a été observée quelle que soit la voie dadministration
+Alignment: (a->* 1, 020796->* 1, b->* 1, 290896->au 1, c->accumulation 1, 300896->was 1, d->observed 1, OJ->with 1, No->either 1, C284->route 1, of->of 0, 270996->administration 1)
+ED SCORE: 0.08333333333333337
+
+Sentence to be translated: 'Norge Abbott Norge AS PO Box 1 N1330 Fornebu Martin Linges vei 25 N1367 Snarøya Tlf  47 81 55 99 20' 
+-----------------------------------------
+1: Norge Novartis Norge AS Tlf 47 23 05 20 00
+T: Norge Novartis Norge AS Tlf 47 23 05 20 00
+Alignment: (Norge->Norge 0, Abbott->Novartis 1, Norge->Norge 0, AS->AS 0, PO->* 1, Box->* 1, 1->* 1, N1330->* 1, Fornebu->* 1, Martin->* 1, Linges->* 1, vei->* 1, 25->* 1, N1367->* 1, Snarøya->* 1, Tlf->Tlf 0, 47->47 0, 81->23 1, 55->05 1, 99->20 1, 20->00 1)
+ED SCORE: 0.19999999999999996
+
+2: Norge Roche Norge AS Tlf 47  22 78 90 00
+T: Norge Roche Norge AS Tlf 47  22 78 90 00
+Alignment: (Norge->Norge 0, Abbott->Roche 1, Norge->Norge 0, AS->AS 0, PO->* 1, Box->* 1, 1->* 1, N1330->* 1, Fornebu->* 1, Martin->* 1, Linges->* 1, vei->* 1, 25->* 1, N1367->* 1, Snarøya->* 1, Tlf->Tlf 0, 47->47 0, 81->22 1, 55->78 1, 99->90 1, 20->00 1)
+ED SCORE: 0.19999999999999996
+
+3: Norge sanofiaventis Norge AS Tlf 47 67 10 71 00
+T: Norge sanofiaventis Norge AS Tlf 47 67 10 71 00
+Alignment: (Norge->Norge 0, Abbott->sanofiaventis 1, Norge->Norge 0, AS->AS 0, PO->* 1, Box->* 1, 1->* 1, N1330->* 1, Fornebu->* 1, Martin->* 1, Linges->* 1, vei->* 1, 25->* 1, N1367->* 1, Snarøya->* 1, Tlf->Tlf 0, 47->47 0, 81->67 1, 55->10 1, 99->71 1, 20->00 1)
+ED SCORE: 0.19999999999999996
+
+4: Norge JANSSENCILAG AS Hoffsveien 1 D N0275 Oslo Tlf 47 24 12 65 00
+T: Norge JANSSENCILAG AS Hoffsveien 1 D N0275 Oslo Tlf 47 24 12 65 00
+Alignment: (Norge->Norge 0, Abbott->* 1, Norge->JANSSENCILAG 1, AS->AS 0, PO->* 1, Box->Hoffsveien 1, 1->1 0, N1330->* 1, Fornebu->* 1, Martin->* 1, Linges->* 1, vei->* 1, 25->D 1, N1367->N0275 1, Snarøya->Oslo 1, Tlf->Tlf 0, 47->47 0, 81->24 1, 55->12 1, 99->65 1, 20->00 1)
+ED SCORE: 0.19999999999999996
+
+5: Norge Bayer AS Bayer HealthCare Animal Health Division Drammensveien 147 B N0277 Oslo Tlf 47 24 11 18 00
+T: Norge Bayer AS Bayer HealthCare Animal Health Division Drammensveien 147 B N0277 Oslo Tlf 47 24 11 18 00
+Alignment: (Norge->Norge 0, Abbott->* 1, Norge->Bayer 1, AS->AS 0, PO->* 1, Box->Bayer 1, 1->HealthCare 1, N1330->Animal 1, Fornebu->Health 1, Martin->Division 1, Linges->Drammensveien 1, vei->147 1, 25->B 1, N1367->N0277 1, Snarøya->Oslo 1, Tlf->Tlf 0, 47->47 0, 81->24 1, 55->11 1, 99->18 1, 20->00 1)
+ED SCORE: 0.15000000000000002
+
+6: Norge BRISTOLMYERS SQUIBB NORWAY LTD Tlf  47 67 55 53 50
+T: Norge BRISTOLMYERS SQUIBB NORWAY LTD Tlf  47 67 55 53 50
+Alignment: (Norge->* 1, Abbott->* 1, Norge->Norge 0, AS->* 1, PO->* 1, Box->* 1, 1->* 1, N1330->* 1, Fornebu->* 1, Martin->* 1, Linges->* 1, vei->BRISTOLMYERS 1, 25->SQUIBB 1, N1367->NORWAY 1, Snarøya->LTD 1, Tlf->Tlf 0, 47->47 0, 81->67 1, 55->55 0, 99->53 1, 20->50 1)
+ED SCORE: 0.15000000000000002
+
+7: Norge Merck Serono Norge Luhrtoppen 2 1470 Lørenskog Tlf 47 67 90 35 90
+T: Norge Merck Serono Norge Luhrtoppen 2 1470 Lørenskog Tlf 47 67 90 35 90
+Alignment: (Norge->* 1, Abbott->* 1, Norge->Norge 0, AS->* 1, PO->* 1, Box->* 1, 1->* 1, N1330->* 1, Fornebu->Merck 1, Martin->Serono 1, Linges->Norge 1, vei->Luhrtoppen 1, 25->2 1, N1367->1470 1, Snarøya->Lørenskog 1, Tlf->Tlf 0, 47->47 0, 81->67 1, 55->90 1, 99->35 1, 20->90 1)
+ED SCORE: 0.09999999999999998
+
+8: Norge Orion Pharma Animal Health Tlf 47 40 00 41 90
+T: Norge Orion Pharma Animal Health Tlf 47 40 00 41 90
+Alignment: (Norge->* 1, Abbott->* 1, Norge->Norge 0, AS->* 1, PO->* 1, Box->* 1, 1->* 1, N1330->* 1, Fornebu->* 1, Martin->* 1, Linges->* 1, vei->Orion 1, 25->Pharma 1, N1367->Animal 1, Snarøya->Health 1, Tlf->Tlf 0, 47->47 0, 81->40 1, 55->00 1, 99->41 1, 20->90 1)
+ED SCORE: 0.09999999999999998
+
+9: Danmark Abbott Laboratories AS Smakkedalen 6 DK2820 Gentofte Tlf  45 39 770000
+T: Danmark Abbott Laboratories AS Smakkedalen 6 DK2820 Gentofte Tlf  45 39 770000
+Alignment: (Norge->Danmark 1, Abbott->Abbott 0, Norge->Laboratories 1, AS->AS 0, PO->* 1, Box->* 1, 1->* 1, N1330->* 1, Fornebu->* 1, Martin->* 1, Linges->* 1, vei->Smakkedalen 1, 25->6 1, N1367->DK2820 1, Snarøya->Gentofte 1, Tlf->Tlf 0, 47->* 1, 81->* 1, 55->45 1, 99->39 1, 20->770000 1)
+ED SCORE: 0.09999999999999998
+
+10: Fresenius Kabi Norge AS Postboks 430 N1753 Halden Norway
+T: Fabricant Fresenius Kabi Norge AS Postboks 430 N1753 Halden Norvège
+Alignment: (Norge->Fresenius 1, Abbott->Kabi 1, Norge->Norge 0, AS->AS 0, PO->* 1, Box->* 1, 1->* 1, N1330->* 1, Fornebu->* 1, Martin->* 1, Linges->* 1, vei->* 1, 25->* 1, N1367->* 1, Snarøya->* 1, Tlf->* 1, 47->Postboks 1, 81->430 1, 55->N1753 1, 99->Halden 1, 20->Norway 1)
+ED SCORE: 0.050000000000000044
+
+Sentence to be translated: 'The pharmacokinetic characteristics of aripiprazole and dehydroaripiprazole were found to be similar in patients with severe renal disease compared to young healthy subjects' 
+-----------------------------------------
+1: AUC of the microbiologically inactive ringopened metabolite is expected to be considerably increased in patients with severe renal impairment compared with healthy subjects
+T: On s’attend à ce que l’AUC du métabolite à noyau ouvert microbiologiquement inactif soit considérablement augmentée chez les patients atteints d’une insuffisance rénale sévère comparativement aux sujets sains
+Alignment: (The->AUC 1, pharmacokinetic->of 1, characteristics->the 1, of->microbiologically 1, aripiprazole->inactive 1, and->ringopened 1, dehydroaripiprazole->metabolite 1, were->is 1, found->expected 1, to->to 0, be->be 0, *->considerably 1, similar->increased 1, in->in 0, patients->patients 0, with->with 0, severe->severe 0, renal->renal 0, disease->impairment 1, compared->compared 0, to->* 1, young->with 1, healthy->healthy 0, subjects->subjects 0)
+ED SCORE: 0.36363636363636365
+
+2: The pharmacokinetics of duloxetine and its metabolites have not been studied in patients with mild or severe hepatic insufficiency
+T: La pharmacocinétique de la duloxétine et de ses métabolites na pas été étudiée chez les patientes atteintes dinsuffisance hépatique légère ou sévère
+Alignment: (The->The 0, pharmacokinetic->* 1, characteristics->pharmacokinetics 1, of->of 0, aripiprazole->duloxetine 1, and->and 0, dehydroaripiprazole->its 1, were->metabolites 1, found->have 1, to->not 1, be->been 1, similar->studied 1, in->in 0, patients->patients 0, with->with 0, severe->* 1, renal->* 1, disease->* 1, compared->mild 1, to->or 1, young->severe 1, healthy->hepatic 1, subjects->insufficiency 1)
+ED SCORE: 0.2272727272727273
+
+3: The pharmacokinetics of ViraferonPeg have not been evaluated in patients with severe hepatic dysfunction
+T: La pharmacocinétique de ViraferonPeg n’ a pas été évaluée chez les patients ayant un dysfonctionnement hépatique sévère
+Alignment: (The->The 0, pharmacokinetic->* 1, characteristics->pharmacokinetics 1, of->of 0, aripiprazole->* 1, and->* 1, dehydroaripiprazole->* 1, were->ViraferonPeg 1, found->have 1, to->not 1, be->been 1, similar->evaluated 1, in->in 0, patients->patients 0, with->with 0, severe->severe 0, renal->* 1, disease->* 1, compared->* 1, to->* 1, young->* 1, healthy->hepatic 1, subjects->dysfunction 1)
+ED SCORE: 0.2272727272727273
+
+4: The use of SIFROL has not been studied in hemodialysis patients or in patients with severe renal impairment
+T: L’ utilisation de SIFROL n’ a pas été étudiée chez les patients hémodialysés ou atteints d’ insuffisance rénale sévère
+Alignment: (The->The 0, pharmacokinetic->use 1, characteristics->of 1, of->SIFROL 1, aripiprazole->has 1, and->not 1, dehydroaripiprazole->been 1, were->studied 1, found->in 1, to->hemodialysis 1, be->patients 1, similar->or 1, in->in 0, patients->patients 0, with->with 0, severe->severe 0, renal->renal 0, disease->* 1, compared->* 1, to->* 1, young->* 1, healthy->* 1, subjects->impairment 1)
+ED SCORE: 0.2272727272727273
+
+5: No modification of dosage should be necessary in patients with moderate renal insufficiency
+T: Aucune modification posologique nest à prévoir chez les patients atteints dinsuffisance rénale modérée
+Alignment: (The->* 1, pharmacokinetic->No 1, characteristics->modification 1, of->of 0, aripiprazole->* 1, and->* 1, dehydroaripiprazole->* 1, were->* 1, found->dosage 1, to->should 1, be->be 0, similar->necessary 1, in->in 0, patients->patients 0, with->with 0, severe->moderate 1, renal->renal 0, disease->* 1, compared->* 1, to->* 1, young->* 1, healthy->* 1, subjects->insufficiency 1)
+ED SCORE: 0.2272727272727273
+
+6: Plasma protein binding of lumiracoxib was similar in healthy subjects and in patients with endstage renal disease
+T: La liaison du lumiracoxib aux protéines plasmatiques était comparable chez les sujets sains et chez les patients en insuffisance rénale terminale
+Alignment: (The->Plasma 1, pharmacokinetic->protein 1, characteristics->binding 1, of->of 0, aripiprazole->* 1, and->lumiracoxib 1, dehydroaripiprazole->was 1, were->similar 1, found->in 1, to->healthy 1, be->subjects 1, similar->and 1, in->in 0, patients->patients 0, with->with 0, severe->endstage 1, renal->renal 0, disease->disease 0, compared->* 1, to->* 1, young->* 1, healthy->* 1, subjects->* 1)
+ED SCORE: 0.2272727272727273
+
+7: The pharmacokinetics of tolcapone have not been investigated in patients with renal impairment
+T: Insuffisance rénale la pharmacocinétique du tolcapone na pas été étudiée chez des patients atteints dinsuffisance rénale
+Alignment: (The->The 0, pharmacokinetic->* 1, characteristics->pharmacokinetics 1, of->of 0, aripiprazole->* 1, and->* 1, dehydroaripiprazole->* 1, were->tolcapone 1, found->have 1, to->not 1, be->been 1, similar->investigated 1, in->in 0, patients->patients 0, with->with 0, severe->* 1, renal->renal 0, disease->* 1, compared->* 1, to->* 1, young->* 1, healthy->* 1, subjects->impairment 1)
+ED SCORE: 0.2272727272727273
+
+8: The use of Ventavis is not recommended in patients with unstable pulmonary hypertension with advanced right heart failure
+T: L’ utilisation de Ventavis est déconseillée chez les patients atteints d’ hypertension pulmonaire instable avec insuffisance cardiaque droite évoluée
+Alignment: (The->The 0, pharmacokinetic->* 1, characteristics->use 1, of->of 0, aripiprazole->* 1, and->* 1, dehydroaripiprazole->* 1, were->* 1, found->Ventavis 1, to->is 1, be->not 1, similar->recommended 1, in->in 0, patients->patients 0, with->with 0, severe->unstable 1, renal->pulmonary 1, disease->hypertension 1, compared->with 1, to->advanced 1, young->right 1, healthy->heart 1, subjects->failure 1)
+ED SCORE: 0.18181818181818177
+
+9: The pharmacokinetics of sirolimus were similar in various populations with renal function ranging from normal to absent dialysis patients
+T: Les données pharmacocinétiques du sirolimus observées dans des populations allant d’ une fonction rénale normale à une fonction rénale inexistante patients dialysés sont similaires
+Alignment: (The->The 0, pharmacokinetic->* 1, characteristics->pharmacokinetics 1, of->of 0, aripiprazole->* 1, and->* 1, dehydroaripiprazole->sirolimus 1, were->were 0, found->* 1, to->* 1, be->* 1, similar->similar 0, in->in 0, *->various 1, patients->populations 1, with->with 0, *->renal 1, severe->function 1, renal->ranging 1, disease->from 1, compared->normal 1, to->to 0, young->absent 1, healthy->dialysis 1, subjects->patients 1)
+ED SCORE: 0.18181818181818177
+
+10: No relevant modification in agomelatine pharmacokinetic parameters in patients with severe renal impairment has been observed
+T: Aucune modification notable des paramètres pharmacocinétiques de l’ agomélatine n’ a été observée chez les patients présentant une insuffisance rénale sévère
+Alignment: (The->* 1, pharmacokinetic->* 1, characteristics->* 1, of->* 1, aripiprazole->* 1, and->No 1, dehydroaripiprazole->relevant 1, were->modification 1, found->in 1, to->agomelatine 1, be->pharmacokinetic 1, similar->parameters 1, in->in 0, patients->patients 0, with->with 0, severe->severe 0, renal->renal 0, disease->* 1, compared->* 1, to->impairment 1, young->has 1, healthy->been 1, subjects->observed 1)
+ED SCORE: 0.18181818181818177
+
+Sentence to be translated: 'AVAGLIM' 
+-----------------------------------------
+1: 103 9
+T: 108 9
+Alignment: (*->103 1, AVAGLIM->9 1)
+ED SCORE: 0
+
+2: BATCH NUMBER
+T: NUMERO DE LOT
+Alignment: (*->BATCH 1, AVAGLIM->NUMBER 1)
+ED SCORE: 0
+
+3: You may need to read it again
+T:  Si vous avez toute autre question si vous avez un doute demandez plus d’ informations à votre
+Alignment: (*->You 1, *->may 1, *->need 1, *->to 1, *->read 1, *->it 1, AVAGLIM->again 1)
+ED SCORE: 0
+
+4: Thromboembolic Events
+T: Évènements thromboemboliques
+Alignment: (*->Thromboembolic 1, AVAGLIM->Events 1)
+ED SCORE: 0
+
+5: 63 Shelf life
+T: 63 Durée de conservation
+Alignment: (*->63 1, *->Shelf 1, AVAGLIM->life 1)
+ED SCORE: 0
+
+6: A greater proportion of cases were reported when vildagliptin was administered in combination with an ACE inhibitor
+T: Une proportion plus importante de cas a été observée lorsque la vildagliptine a été
+Alignment: (*->A 1, *->greater 1, *->proportion 1, *->of 1, *->cases 1, *->were 1, *->reported 1, *->when 1, *->vildagliptin 1, *->was 1, *->administered 1, *->in 1, *->combination 1, *->with 1, *->an 1, *->ACE 1, AVAGLIM->inhibitor 1)
+ED SCORE: 0
+
+7: 65 Nature and contents of container
+T: 65 Nature et contenu de lemballage extérieur
+Alignment: (*->65 1, *->Nature 1, *->and 1, *->contents 1, *->of 1, AVAGLIM->container 1)
+ED SCORE: 0
+
+8: It is not known whether sitagliptin passes into human milk
+T: On ne sait pas si la sitagliptine passe dans le lait maternel humain
+Alignment: (*->It 1, *->is 1, *->not 1, *->known 1, *->whether 1, *->sitagliptin 1, *->passes 1, *->into 1, *->human 1, AVAGLIM->milk 1)
+ED SCORE: 0
+
+9: In clinical trials worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo see section 48 and olanzapine was not more effective than placebo in the treatment of psychotic symptoms
+T: Au cours d’ essais cliniques une aggravation de la symptomatologie parkinsonienne et des hallucinations ont été très fréquemment rapportées et de façon plus fréquente qu’ avec le placebo voir rubrique 48 l’ olanzapine n’ était pas plus efficace que le placebo dans le traitement des symptômes psychotiques
+Alignment: (*->In 1, *->clinical 1, *->trials 1, *->worsening 1, *->of 1, *->Parkinsonian 1, *->symptomatology 1, *->and 1, *->hallucinations 1, *->were 1, *->reported 1, *->very 1, *->commonly 1, *->and 1, *->more 1, *->frequently 1, *->than 1, *->with 1, *->placebo 1, *->see 1, *->section 1, *->48 1, *->and 1, *->olanzapine 1, *->was 1, *->not 1, *->more 1, *->effective 1, *->than 1, *->placebo 1, *->in 1, *->the 1, *->treatment 1, *->of 1, *->psychotic 1, AVAGLIM->symptoms 1)
+ED SCORE: 0
+
+10: METHOD AND ROUTES OF ADMINISTRATION
+T: MODE ET VOIES D’ ADMINISTRATION
+Alignment: (*->METHOD 1, *->AND 1, *->ROUTES 1, *->OF 1, AVAGLIM->ADMINISTRATION 1)
+ED SCORE: 0
+
+Sentence to be translated: 'The active thiol metabolite which has been isolated in vitro binds rapidly and irreversibly to platelet receptors thus inhibiting platelet aggregation' 
+-----------------------------------------
+1: The following undesirable effects have also been reported in clinical trials and or post marketing
+T: Les effets indésirables suivants ont également été rapportés dans le cadre d’ essais cliniques et ou après la mise sur le marché
+Alignment: (The->The 0, active->following 1, thiol->undesirable 1, metabolite->effects 1, which->have 1, has->also 1, been->been 0, isolated->reported 1, in->in 0, vitro->* 1, binds->clinical 1, rapidly->trials 1, and->and 0, irreversibly->* 1, to->* 1, platelet->* 1, receptors->* 1, thus->* 1, inhibiting->or 1, platelet->post 1, aggregation->marketing 1)
+ED SCORE: 0.15000000000000002
+
+2: Orathecin has been investigated in two main clinical studies
+T: Orathécin a fait l’ objet de deux études cliniques principales
+Alignment: (The->* 1, active->* 1, thiol->* 1, metabolite->* 1, which->Orathecin 1, has->has 0, been->been 0, isolated->investigated 1, in->in 0, vitro->* 1, binds->* 1, rapidly->* 1, and->* 1, irreversibly->* 1, to->* 1, platelet->* 1, receptors->* 1, thus->two 1, inhibiting->main 1, platelet->clinical 1, aggregation->studies 1)
+ED SCORE: 0.09999999999999998
+
+3: Photosensitivity Ciprofloxacin has been shown to cause photosensitivity reactions
+T: Photosensibilité La ciprofloxacine peut provoquer des réactions de photosensibilité
+Alignment: (The->* 1, active->* 1, thiol->* 1, metabolite->Photosensitivity 1, which->Ciprofloxacin 1, has->has 0, been->been 0, isolated->* 1, in->* 1, vitro->* 1, binds->* 1, rapidly->* 1, and->* 1, irreversibly->shown 1, to->to 0, platelet->* 1, receptors->* 1, thus->* 1, inhibiting->cause 1, platelet->photosensitivity 1, aggregation->reactions 1)
+ED SCORE: 0.09999999999999998
+
+4: Distribution The in vitro binding of rotigotine to plasma proteins is approximately 92
+T: Distribution La liaison in vitro de la rotigotine aux protéines plasmatiques est de l’ ordre de 92
+Alignment: (The->* 1, active->* 1, thiol->* 1, metabolite->* 1, which->* 1, has->* 1, been->Distribution 1, isolated->The 1, in->in 0, vitro->vitro 0, binds->* 1, rapidly->binding 1, and->of 1, irreversibly->rotigotine 1, to->to 0, platelet->* 1, receptors->plasma 1, thus->proteins 1, inhibiting->is 1, platelet->approximately 1, aggregation->92 1)
+ED SCORE: 0.09999999999999998
+
+5: The active substance in Oprymea pramipexole is a dopamine agonist which imitates the action of dopamine
+T: Le principe actif d’ Oprymea le pramipexole est un agoniste dopaminergique qui imite l’ action de la dopamine
+Alignment: (The->The 0, active->active 0, thiol->* 1, metabolite->* 1, which->* 1, has->* 1, been->* 1, isolated->substance 1, in->in 0, vitro->Oprymea 1, binds->pramipexole 1, rapidly->is 1, and->a 1, irreversibly->dopamine 1, to->agonist 1, platelet->which 1, receptors->imitates 1, thus->the 1, inhibiting->action 1, platelet->of 1, aggregation->dopamine 1)
+ED SCORE: 0.09999999999999998
+
+6: The pharmacokinetics of darbepoetin alfa has been studied clinically in chronic renal failure patients following intravenous and subcutaneous administration
+T: Les propriétés pharmacocinétiques de la darbepoetin alfa ont fait lobjet détudes cliniques chez des patients insuffisants rénaux chroniques après administration intraveineuse et souscutanée
+Alignment: (The->The 0, active->pharmacokinetics 1, thiol->of 1, metabolite->darbepoetin 1, which->alfa 1, has->has 0, been->been 0, isolated->* 1, in->* 1, vitro->studied 1, binds->clinically 1, rapidly->in 1, and->chronic 1, irreversibly->renal 1, to->failure 1, platelet->patients 1, receptors->following 1, thus->intravenous 1, inhibiting->and 1, platelet->subcutaneous 1, aggregation->administration 1)
+ED SCORE: 0.09999999999999998
+
+7: A clear link has been demonstrated between hepatitis B infection and the occurrence of hepatocellular carcinoma HCC
+T: Réduction de lincidence des carcinomes hépatocellulaires Un lien clair a été démontré entre linfection par le virus de lhépatite B et la survenue de carcinome hépatocellulaire
+Alignment: (The->* 1, active->* 1, thiol->A 1, metabolite->clear 1, which->link 1, has->has 0, been->been 0, isolated->demonstrated 1, in->between 1, vitro->hepatitis 1, binds->B 1, rapidly->infection 1, and->and 0, irreversibly->* 1, to->* 1, platelet->the 1, receptors->occurrence 1, thus->of 1, inhibiting->hepatocellular 1, platelet->carcinoma 1, aggregation->HCC 1)
+ED SCORE: 0.09999999999999998
+
+8: Mild reddening of the ear has been seen in around 2 of dogs
+T: Un léger rougissement de l’ oreille a été observé chez environ 2 des chiens
+Alignment: (The->Mild 1, active->reddening 1, thiol->of 1, metabolite->the 1, which->ear 1, has->has 0, been->been 0, isolated->seen 1, in->in 0, vitro->* 1, binds->* 1, rapidly->* 1, and->* 1, irreversibly->* 1, to->* 1, platelet->* 1, receptors->* 1, thus->around 1, inhibiting->2 1, platelet->of 1, aggregation->dogs 1)
+ED SCORE: 0.09999999999999998
+
+9: The active substance in Diractin ketoprofen is a nonsteroidal antiinflammatory drug NSAID
+T: Le principe actif contenu dans Diractin le kétoprofène est un antiinflammatoire non stéroïdien AINS
+Alignment: (The->The 0, active->active 0, thiol->* 1, metabolite->* 1, which->* 1, has->* 1, been->* 1, isolated->substance 1, in->in 0, vitro->* 1, binds->* 1, rapidly->* 1, and->* 1, irreversibly->Diractin 1, to->ketoprofen 1, platelet->is 1, receptors->a 1, thus->nonsteroidal 1, inhibiting->antiinflammatory 1, platelet->drug 1, aggregation->NSAID 1)
+ED SCORE: 0.09999999999999998
+
+10: The following properties have been demonstrated in preclinical studies
+T: Les propriétés suivantes ont été démontrées dans des études pré cliniques
+Alignment: (The->The 0, active->* 1, thiol->* 1, metabolite->following 1, which->properties 1, has->have 1, been->been 0, isolated->demonstrated 1, in->in 0, vitro->* 1, binds->* 1, rapidly->* 1, and->* 1, irreversibly->* 1, to->* 1, platelet->* 1, receptors->* 1, thus->* 1, inhibiting->* 1, platelet->preclinical 1, aggregation->studies 1)
+ED SCORE: 0.09999999999999998
+

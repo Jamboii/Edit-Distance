@@ -1,0 +1,210 @@
+Sentence to be translated: 'a 020796 b 290896 c 300896 d OJ No C284 of 270996' 
+-----------------------------------------
+1: MIU  million international units TIW  three times a week a p value based on CochranMantel Haenszel Chi square test b p value based on chisquare test c subjects  75 kg received 100 µgweek pegylated interferon alfa2b and subjects ≥ 75 kg received 150 µgweek pegylated interferon alfa2b d ribavirin dosing was 800 mg for patients  60 kg 1000 mg for patients 6075 kg and 1200 mg for patients  75 kg
+T: MUI  million d’ unités internationales a valeur de p basée sur le test du Chi 2 CochranMantelHaenszel b valeur de p basée sur le test du Chi 2 c sujets  75 kg recevant 100 µg semaine d’ interféron alfa2b pégylé et sujets ≥ 75 kg recevant 150 µg semaine d’ interféron alfa2b pégylé d posologie de ribavirine de 800 mg pour les patients  60 kg 1 000 mg pour les patients 60 75 kg et 1 200 mg pour les patients  75 kg
+PM SCORE: 0.3333333333333333
+
+2: a 2081996 b 871996 c 170 days d 518 days
+T: a 200896 b 080796 c 170 Jours d 518 Jours
+PM SCORE: 0.3333333333333333
+
+3: a b c d
+T: a b c d
+PM SCORE: 0.3333333333333333
+
+4: Therefore on 20 April 2005 further to a request from the EC the CHMP broadened the scope of the procedure under Article 31 of Directive 2001 83 EC as amended and the review procedure under Article 18 of Council Regulation EEC No 2309 93 to include the assessment of serious skin reactions in the ongoing class review in addition to the cardiovascular safety aspects
+T: Par conséquent le 20 avril 2005 suite à une demande de la CE le CHMP a élargi le champ de la procédure en vertu de l’ article 31 de la directive 2001 83 CE telle que modifiée et de la procédure de révision en vertu de l’ article 18 du règlement CEE N° 2309 93 du Conseil de manière à inclure dans
+PM SCORE: 0.25
+
+5: No functional impairment was observed and electron microscopic investigations of the rat kidneys indicated that the observed vacuolation was primarily a storage phenomenon
+T: Aucune détérioration fonctionnelle n’ a été constatée et des études au microscope électronique sur des reins de rat indiquaient que la vacuolisation observée était principalement due à un phénomène de stockage
+PM SCORE: 0.25
+
+6: No interactions suceptible to have a noticeable impact have been observed between alcohol at the blood level of 05 per mille corresponding to one glass of wine and cetirizine used at the normal doses
+T: Il n’ est pas décrit d’ interaction susceptible davoir un effet particulier en cas de prise concomitante de cétirizine utilisée aux doses normales et dalcool jusqu’ à la concentration sanguine de 05 pour mille correspondant à un verre de vin
+PM SCORE: 0.25
+
+7: Fosamprenavir ritonavir amprenavir AUC ↑ 169 153186 700 100 mg b i d amprenavir Cmin ↑ 177 139225 amprenavir Cmax ↑ 162 147179 etravirine AUC ↔ a etravirine Cmin ↔ a etravirine Cmax ↔ a
+T: Fosamprenavir ritonavir amprenavir ASC ↑ 169 153186 700 100 mg deux fois amprenavir Cmin ↑ 177 139225 par jour amprenavir Cmax ↑ 162 147179 étravirine ASC ↔ a étravirine Cmin ↔ a étravirine Cmax ↔ a
+PM SCORE: 0.25
+
+8: b 201196 c 70 d ays d
+T: b 201196 c 70 jours d
+PM SCORE: 0.25
+
+9: Ped ACR 30 50 70 responses week 48 significantly greater than those of placebo treated patients b p  0015 c p  0031
+T: 30 50 70 en semaine 48 significativement plus élevées que celles des patients sous placebo b P  0015 c P  0031
+PM SCORE: 0.25
+
+10: The CVMP has reached a positive opinion in respect of 6 products during the year 5 being pharmaceuticals eligible under Part B of the Annex to Council Regulation EEC No 2309 93 and 1 being recombinant vaccines under Part A of the Annex
+T: Le CVMP a émis un avis positif sur 6 médicaments au cours de l’année dont cinq étaient recevables dans le cadre de la partie B de l’annexe du règlement CEE n° 230993 du Conseil et un concernait des vaccins recombinants couverts par la partie A de l’annexe
+PM SCORE: 0.25
+
+Sentence to be translated: 'Norge Abbott Norge AS PO Box 1 N1330 Fornebu Martin Linges vei 25 N1367 Snarøya Tlf  47 81 55 99 20' 
+-----------------------------------------
+1: Norge Novartis Norge AS Tlf 47 23 05 20 00
+T: Norge Novartis Norge AS Tlf 47 23 05 20 00
+PM SCORE: 0.25
+
+2: Norge JANSSENCILAG AS Hoffsveien 1 D N0275 Oslo Tlf 47 24 12 65 00
+T: Norge JANSSENCILAG AS Hoffsveien 1 D N0275 Oslo Tlf 47 24 12 65 00
+PM SCORE: 0.25
+
+3: Norge Roche Norge AS Tlf 47  22 78 90 00
+T: Norge Roche Norge AS Tlf 47  22 78 90 00
+PM SCORE: 0.2
+
+4: Norge sanofiaventis Norge AS Tlf 47 67 10 71 00
+T: Norge sanofiaventis Norge AS Tlf 47 67 10 71 00
+PM SCORE: 0.2
+
+5: Tel 35621 44 62 05 Nederland Bayer B V Bayer Schering Pharma Tel 31029728 06 66 Norge Bayer AS Tlf 47 24 11 18 00 Österreich Bayer Austria Ges m b
+T: Tel 35621 44 62 05 Nederland Bayer B V Bayer Schering Pharma Tel 31029728 06 66 Norge Bayer AS Tlf 47 24 11 18 00 Österreich Bayer Austria Ges m b
+PM SCORE: 0.2
+
+6: Norge Bayer AS Bayer HealthCare Animal Health Division Drammensveien 147 B N0277 Oslo Tlf 47 24 11 18 00
+T: Norge Bayer AS Bayer HealthCare Animal Health Division Drammensveien 147 B N0277 Oslo Tlf 47 24 11 18 00
+PM SCORE: 0.2
+
+7: Norge MSD Norge A S Tlf 47 32 20 73 00 msdnorgemsd no
+T: MSD Norge A S Tlf 47 32 20 73 00 msdnorgemsd no
+PM SCORE: 0.2
+
+8: Norge BRISTOLMYERS SQUIBB NORWAY LTD Tlf  47 67 55 53 50
+T: Norge BRISTOLMYERS SQUIBB NORWAY LTD Tlf  47 67 55 53 50
+PM SCORE: 0.2
+
+9: Norge Merck Serono Norge Luhrtoppen 2 1470 Lørenskog Tlf 47 67 90 35 90
+T: Norge Merck Serono Norge Luhrtoppen 2 1470 Lørenskog Tlf 47 67 90 35 90
+PM SCORE: 0.15
+
+10: Solution for infusion 10 1 g in 10 ml 25 g in 25 ml 5 g in 50 ml 10 g in 100 ml 20 g in 200 ml
+T: Solution pour perfusion 10 1 g pour 10 ml 25 g pour 25 ml 5 g pour 50 ml 10 g pour 100 ml 20 g pour 200 ml
+PM SCORE: 0.15
+
+Sentence to be translated: 'The pharmacokinetic characteristics of aripiprazole and dehydroaripiprazole were found to be similar in patients with severe renal disease compared to young healthy subjects' 
+-----------------------------------------
+1: An approximately 2fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal insufficiency and an approximately 4fold increase was observed in patients with severe renal insufficiency and in patients with ESRD on haemodialysis as compared to normal healthy control subjects
+T: LASC plasmatique de la sitagliptine a environ doublé chez les patients ayant une insuffisance rénale modérée elle a environ été multipliée par 4 chez les patients ayant une insuffisance rénale sévère et chez les patients en insuffisance rénale terminale sous hémodialyse par rapport aux sujets témoins sains normaux
+PM SCORE: 0.5
+
+2: AUC of the microbiologically inactive ringopened metabolite is expected to be considerably increased in patients with severe renal impairment compared with healthy subjects
+T: On s’attend à ce que l’AUC du métabolite à noyau ouvert microbiologiquement inactif soit considérablement augmentée chez les patients atteints d’une insuffisance rénale sévère comparativement aux sujets sains
+PM SCORE: 0.5
+
+3: The adverse event profile in adolescents and patients with chronic cardiac and or respiratory disease was qualitatively similar to those of healthy young adults
+T: Le profil deffets indésirables chez les adolescents et les patients présentant une affection chronique cardiaque et ou respiratoire était qualitativement semblable à celui observé chez les jeunes adultes sains
+PM SCORE: 0.5
+
+4: Following multiple dosing of PegIntron 10 microgramkg subcutaneously administered every week for four weeks the clearance of PegIntron is reduced by a mean of 17 in patients with moderate renal impairment creatinine clearance 3049 mlminute and by a mean of 44 in patients with severe renal impairment creatinine clearance 1529 mlminute compared to subjects with normal renal function
+T: Suite à de multiples dosages de PegIntron 10 microgramme kg administré par voie souscutanée chaque semaine pendant quatre semaines la clairance de PegIntron est réduite en moyenne de 17 chez les patients avec une insuffisance rénale modérée clairance de la créatinine 3049 ml minute et en moyenne de 44 chez les patients avec une insuffisance rénale sévère clairance de la créatinine 1529 ml minute par comparaison aux sujets avec une fonction rénale normale
+PM SCORE: 0.45454545454545453
+
+5: Characteristics in patients The pharmacokinetics of sitagliptin were generally similar in healthy subjects and in patients with type 2 diabetes
+T: Populations particulières La pharmacocinétique de la sitagliptine est généralement similaire chez les sujets sains et chez les diabétiques de type 2
+PM SCORE: 0.45454545454545453
+
+6: In a single dose study after intravenous administration the pharmacokinetics of methoxy polyethylene glycolepoetin beta are similar in patients with severe hepatic impairment as compared to healthy subjects see section 42
+T: Dans une étude évaluant l’ administration de dose unique en intraveineuse la pharmacocinétique du méthoxy polyéthylène glycolepoetin beta chez les patients insuffisants hépatiques sévères est similaire à celle chez les sujets sains voir rubrique 42
+PM SCORE: 0.45454545454545453
+
+7: Patients with renal hepatic impairment Studies of filgrastim in patients with severe impairment of renal or hepatic function demonstrate that it exhibits a similar pharmacokinetic and pharmacodynamic profile to that seen in normal individuals
+T: Patients présentant une insuffisance rénale hépatique Les études du filgrastim chez les patients présentant une insuffisance rénale ou hépatique sévère démontrent que les profils pharmacocinétique et pharmacodynamique sont similaires à ceux observés chez les sujets normaux
+PM SCORE: 0.45454545454545453
+
+8: Plasma protein binding of lumiracoxib was similar in healthy subjects and in patients with endstage renal disease
+T: La liaison du lumiracoxib aux protéines plasmatiques était comparable chez les sujets sains et chez les patients en insuffisance rénale terminale
+PM SCORE: 0.45454545454545453
+
+9: The pharmacokinetics of sirolimus were similar in various populations with renal function ranging from normal to absent dialysis patients
+T: Les données pharmacocinétiques du sirolimus observées dans des populations allant d’ une fonction rénale normale à une fonction rénale inexistante patients dialysés sont similaires
+PM SCORE: 0.4090909090909091
+
+10: The results from the trial were not consistent in the subgroup of patients with a poor performance status WHO PS2 n70 where overall survival and time to progression were similar in both arms
+T: Les résultats de l’ étude n’ étaient pas cohérents dans le sousgroupe de patients avec un faible « performance status » OMS PS2 n70 où la survie globale et le temps de progression étaient similaires dans les deux bras
+PM SCORE: 0.4090909090909091
+
+Sentence to be translated: 'AVAGLIM' 
+-----------------------------------------
+1: Therefore AVAGLIM should not be used during lactation
+T: Par conséquent AVAGLIM ne doit donc pas être utilisé chez la femme qui allaite
+PM SCORE: 1.0
+
+2: 103 9
+T: 108 9
+PM SCORE: 0.0
+
+3: BATCH NUMBER
+T: NUMERO DE LOT
+PM SCORE: 0.0
+
+4: You may need to read it again
+T:  Si vous avez toute autre question si vous avez un doute demandez plus d’ informations à votre
+PM SCORE: 0.0
+
+5: Thromboembolic Events
+T: Évènements thromboemboliques
+PM SCORE: 0.0
+
+6: 63 Shelf life
+T: 63 Durée de conservation
+PM SCORE: 0.0
+
+7: A greater proportion of cases were reported when vildagliptin was administered in combination with an ACE inhibitor
+T: Une proportion plus importante de cas a été observée lorsque la vildagliptine a été
+PM SCORE: 0.0
+
+8: 65 Nature and contents of container
+T: 65 Nature et contenu de lemballage extérieur
+PM SCORE: 0.0
+
+9: It is not known whether sitagliptin passes into human milk
+T: On ne sait pas si la sitagliptine passe dans le lait maternel humain
+PM SCORE: 0.0
+
+10: In clinical trials worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo see section 48 and olanzapine was not more effective than placebo in the treatment of psychotic symptoms
+T: Au cours d’ essais cliniques une aggravation de la symptomatologie parkinsonienne et des hallucinations ont été très fréquemment rapportées et de façon plus fréquente qu’ avec le placebo voir rubrique 48 l’ olanzapine n’ était pas plus efficace que le placebo dans le traitement des symptômes psychotiques
+PM SCORE: 0.0
+
+Sentence to be translated: 'The active thiol metabolite which has been isolated in vitro binds rapidly and irreversibly to platelet receptors thus inhibiting platelet aggregation' 
+-----------------------------------------
+1: Hepatic impairment The pharmacokinetics of fulvestrant has been evaluated in a singledose clinical trial conducted in subjects with mild to moderate hepatic impairment ChildPugh class A and B
+T: 6 La pharmacocinétique du fulvestrant a été évaluée en dose unique dans une étude clinique chez des patientes atteintes d’ une insuffisance hépatique légère à modérée scores de Child Pugh A et B
+PM SCORE: 0.3
+
+2: Epoetin beta is identical in its amino acid and carbohydrate composition to erythropoietin that has been isolated from the urine of anaemic patients
+T: La composition en hydrates de carbone et en acides aminés de lepoetin beta est identique à celle de lérythropoïétine isolée à partir de lurine des malades anémiques
+PM SCORE: 0.3
+
+3: Trudexa is indicated for the treatment of active and progressive psoriatic arthritis in adults when the response to previous diseasemodifying antirheumatic drug therapy has been inadequate na
+T: Trudexa est indiqué pour le traitement du rhumatisme psoriasique actif et évolutif chez l’ adulte lorsque la réponse à un traitement de fond antérieur a été inadéquate
+PM SCORE: 0.3
+
+4: The safety and efficacy of MIRCERA therapy has not been established in patients with haemoglobinopathies seizures bleeding or a recent history of bleeding requiring transfusions or with platelet levels greater than 500 x 109 l
+T: La tolérance et l’ efficacité de MIRCERA n’ ont pas été établies chez les patients présentant une hémoglobinopathie des crises comitiales une hémorragie ou un antécédent hémorragique récent nécessitant une transfusion ou un taux de plaquettes supérieur à 500 x 109 l
+PM SCORE: 0.3
+
+5: Enbrel has been shown to improve physical function in patients with psoriatic arthritis and to reduce the rate of progression of peripheral joint damage as measured by Xray in patients with polyarticular symmetrical subtypes of the disease
+T: Il a été montré qu’ Enbrel améliore les capacités fonctionnelles chez les patients atteints de rhumatisme psoriasique et ralentit la progression des dommages structuraux articulaires périphériques tels que mesurés par la radiographie chez les patients ayant des formes polyarticulaires symétriques de la maladie
+PM SCORE: 0.25
+
+6: ed The pharmacokinetics of darbepoetin alfa has been studied clinically in chronic renal failure patients following intravenous and subcutaneous administration
+T: Les propriétés pharmacocinétiques de la darbepoetin alfa ont fait lobjet détudes cliniques chez des patients insuffisants rénaux chroniques après administration intraveineuse et souscutanée
+PM SCORE: 0.25
+
+7: The Marketing Authorisation Holder considers it inconceivable that the risks posed to the environment associated with the use of Ecomectin 187 mg g Oral Paste for Horses in particular are any greater than those posed by other ivermectinbased products particularly as the concentration of the active ingredient and the proposed usage regime is identical to that of the reference and other similar products
+T: Le titulaire de l’ autorisation de mise sur le marché estime qu’ il est inconcevable que les risques pour l’ environnement associés à l’ utilisation spécifique de la pâte orale pour chevaux Ecomectin 187 mg g soient supérieurs à ceux présentés par les autres produits à base d’ ivermectine en particulier parce que la concentration du principe actif et la posologie proposée sont identiques à celles du produit de référence et d’ autres produits similaires
+PM SCORE: 0.25
+
+8: AngiotensinII is a substance produced in the body which binds to receptors in blood vessels causing them to tighten
+T: LangiotensineII est une substance formée par lorganisme qui se lie aux récepteurs des vaisseaux sanguins ce qui entraîne leur constriction
+PM SCORE: 0.25
+
+9: Kaletra 400 100 mg twice daily has been studied in combination with reduced doses of amprenavir indinavir nelfinavir and saquinavir in steadystate controlled healthy volunteer studies relative to clinical doses of each HIV protease inhibitor in the absence of ritonavir
+T: Kaletra 400 100 mg deux fois par jour a été étudié en association à des posologies réduites d’ amprénavir d’ indinavir de nelfinavir et de saquinavir par rapport aux doses thérapeutiques de chaque inhibiteur de la protéase du VIH en l’ absence d’ association au ritonavir au cours d’ études cliniques contrôlées à l’ état d’ équilibre chez des volontaires sains
+PM SCORE: 0.25
+
+10: The pharmacokinetics of darbepoetin alfa has been studied clinically in chronic renal failure patients following intravenous and subcutaneous administration
+T: Les propriétés pharmacocinétiques de la darbepoetin alfa ont fait lobjet détudes cliniques chez des patients insuffisants rénaux chroniques après administration intraveineuse et souscutanée
+PM SCORE: 0.25
+
